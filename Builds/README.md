@@ -1,7 +1,7 @@
 # MyGO Together
 一緒に迷子になろう
 
-## Charaters
+## Characters
 * Tomori
 * Anon
 * Soyo

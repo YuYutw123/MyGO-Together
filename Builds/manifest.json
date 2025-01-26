@@ -1,8 +1,8 @@
 {
   "name": "MyGO_Together",
-  "version_number": "1.0.0",
-  "website_url": "https://zh.wikipedia.org/zh-tw/MyGO!!!!!",
-  "description": "Mygo characters' suits",
+  "version_number": "1.0.4",
+  "website_url": "https://github.com/YuYutw123/MyGO-Together",
+  "description": "MyGO characters' suits",
   "dependencies": [
     "x753-More_Suits-1.3.2",
     "BepInEx-BepInExPack-5.4.2100",
