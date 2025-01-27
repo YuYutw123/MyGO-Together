@@ -16,3 +16,8 @@
 * [x753 / Lethal-Company-More-Suits](https://github.com/x753/Lethal-Company-More-Suits)
 * [BunyaPineTree / LethalCompany_ModelReplacementAPI](https://github.com/BunyaPineTree/LethalCompany_ModelReplacementAPI)
 * [BanG Dream MyGO!!! FBX and PMX DL By BungleScrungle](https://www.deviantart.com/bunglescrungle/art/BanG-Dream-MyGO-FBX-and-PMX-DL-1036304336)
+
+## Update
+### 1.0.7 
+**Fixed** 
+idk why the subdirectory folders disappear
